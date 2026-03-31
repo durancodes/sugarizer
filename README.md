@@ -4,7 +4,7 @@
 
 Sugarizer is a free/libre learning platform. The Sugarizer UI uses ergonomic principles from The [Sugar platform](https://sugarlabs.org/), developed for the One Laptop per Child project and used by more than 2 million children around the world.
 
-Sugarizer runs on every device: laptops, desktops, tiny computers, tablets or smartphones.
+Sugarizer runs on a wide range of devices, including laptops, desktops, small computers, tablets, and smartphones.
 
 Sugarizer includes a large set of pedagogic activities thought for children, see [here](https://sugarizer.org/activities.html) for a full list.
 
@@ -22,7 +22,7 @@ To run **Sugarizer Application on Android**, download it on [Google Play](https:
 
 Sugarizer on Android is also available as a launcher to replace the current launcher of your device so you can launch native Android applications from Sugarizer. You can download this Sugarizer version on [Google Play](https://play.google.com/store/apps/details?id=org.olpc_france.sugarizeros).
 
-You could also build yourself the Sugarizer Application APK using the instructions below.
+You can also build the Sugarizer Application APK yourself using the instructions below.
 
 <a href="https://play.google.com/store/apps/details?id=org.olpc_france.sugarizer"><img src="images/googleplay.png" alt="Google Play" width="20%" ></a>
 <a href="http://www.amazon.com/gp/product/B00NKK7PZA"><img src="images/amazonstore.png" alt="Amazon Store" width="20%" ></a>
